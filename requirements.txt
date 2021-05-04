@@ -2,4 +2,4 @@ numpy==1.18.2
 opencv-contrib-python-headless
 imutils==0.5.3
 streamlit==0.72.0
-tensorflow
+tensorflow-cpu
